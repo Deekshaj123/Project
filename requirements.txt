@@ -1,0 +1,11 @@
+pip install --upgrade pip
+import streamlit as st
+from PIL import Image
+import pytube
+from pytube import YouTube
+import instaloader
+from instaloader import Post
+import requests
+import urllib.request
+import os
+import re
